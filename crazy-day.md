@@ -17,6 +17,14 @@
 | VS Code 汉化 | 妈妈再也不用担心我看不懂菜单了 |  
 | Markdown 语法 | 空格和回车的用法已经刻在脑海 |
 
+今天书写了一个简单的代码：  
+`Hello World!`  
+```python  
+def hello():  
+    print("Hello World!")  
+```
+虽然只迈出了小小的一步但是成就感满满呀！
+
 ---
 
 **Created by heeiyyyy with VS Code**
